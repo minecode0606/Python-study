@@ -13,3 +13,4 @@ total += score5
 
 print(f"합계는 {total} 입니다.")
 print(f"평균은 {total / 5} 입니다")
+# 주석
