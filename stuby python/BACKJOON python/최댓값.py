@@ -38,3 +38,4 @@ if maximum < input09:
 
 print(maximum)
 print(count)
+print(lusda)
