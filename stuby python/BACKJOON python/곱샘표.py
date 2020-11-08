@@ -1,5 +1,5 @@
-print("-"* 27)
+input01 = int(input(""))
+
 for i in range(1, 10):
-    print()
-    for j in range(1, 10):
-        print(i * j, end=" ")
+    multiply = i * input01
+    print(f"{input01} * {i} = {multiply}")
