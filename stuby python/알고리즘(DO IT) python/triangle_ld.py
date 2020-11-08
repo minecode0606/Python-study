@@ -16,7 +16,7 @@ n = int(input("짧은 변의 길이를 입력하시오> "))
 
 for i in range(n):
     for _ in range(n - i - 1):
-        print(" ", end="")
+       en print(" ", d="")
     for _ in range(i + 1):
         print("*", end="")
 
